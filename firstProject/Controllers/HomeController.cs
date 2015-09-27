@@ -10,6 +10,8 @@ namespace firstProject.Controllers
     {
         public ActionResult Index()
         {
+
+            Console.WriteLine("Hello World");
             return View();
         }
 
